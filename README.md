@@ -1,8 +1,12 @@
 # 👨‍💻 Hi, I'm Phương
 
+<div style="text-align: justify;">
+
 I am highly interested in software development and enjoy exploring how real-world systems are designed, built, and optimized. Through continuous learning and hands-on practice, I always strive to improve my programming skills, logical thinking, and problem-solving abilities. I am passionate about understanding core computer science concepts, software architecture, and system design, while constantly challenging myself with new technologies and programming paradigms.
 
 I believe that consistent practice, curiosity, and self-discipline are the key factors for growth in this field. Therefore, I always look for opportunities to learn from real projects, improve my code quality, and enhance my ability to write clean, efficient, and maintainable software. My goal is to become a well-rounded Software Engineer who can contribute to building meaningful and impactful technology products while continuously evolving in both technical and professional aspects.
+
+</div>
 
 # 🛠️ Technologies 
 
