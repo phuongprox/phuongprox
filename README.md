@@ -28,9 +28,11 @@ I believe that consistent practice, curiosity, and self-discipline are the key f
 # 🎯 Interests
 
 - Mobile Application Development 📱  
-- API Integration & Backend Communication 🌐  
+- Web Development 🌐💻  
+- API Integration & Backend Communication 🔗  
 - Clean Architecture & Software Design 🏗️  
 - UI/UX Improvement 🎨  
+- Networking & Cisco Fundamentals 🌍🔧  
 - Real-world Project Development 💡  
 
 
